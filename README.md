@@ -7,6 +7,6 @@ It models hundreds of interacting spheres under gravity, complete with collision
 
 This project was inspired by Joe Liang after I saw an Instagram post on his version of this. I rewrote and extended the core logic to include better performance, configuration management, headless operation and deterministic simulation control.
 
-# Running the Simulation:
+## Running the Simulation:
 python3 Spherique.py
 
